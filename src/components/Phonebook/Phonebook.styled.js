@@ -6,7 +6,7 @@ export const Section = styled.div`
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 10%;
+  border-radius: 5%;
   min-height: 100vh;
   text-align: center;
   background-image: linear-gradient(#a9c9ff, #ffbbec 50%);
